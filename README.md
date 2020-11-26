@@ -1,8 +1,4 @@
 
-<div>
-  <img width=400 src="https://github-profile-trophy.vercel.app/?username=philshishov&column=3&row=1"/>
-</div>
-
 ---
 
 <div>
